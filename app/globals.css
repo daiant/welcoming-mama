@@ -22,7 +22,7 @@ body {
   height: 100%;
   object-fit: cover;
   z-index: 0;
-  border-image: fill 0 linear-gradient(#ff0000, #00ff00);
+  border-image: fill 0 linear-gradient(#ffd900, #ffe9c7);
 }
 
 .banner .mask {
