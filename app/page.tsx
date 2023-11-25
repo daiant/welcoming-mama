@@ -29,6 +29,12 @@ export default function Home() {
             <h2>El gel es el azul de colonia.</h2>
           </aside>
         </article>
+        <article className="secondary">
+          <img src="/wifi.jpg" />
+          <aside>
+            <h1>La wifi: dpXPd7Qe</h1>
+          </aside>
+        </article>
       </section>
       <footer>
         <h1>¿Alguna duda?</h1>
